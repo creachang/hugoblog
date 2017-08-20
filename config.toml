@@ -37,12 +37,12 @@ authorwebsite = "https://creachang.github.io"
 authorbio = "呵呵"
 cover = "images/cover_polenord.jpg"
 description = "Whatever the mind of man can conceive and believe, it can achieve."
-githubName = "creachang"
+# githubName = "creachang"
 hjsStyle = "default"
 # googleAnalyticsUserID = "UA-79101-12"
 hideHUGOSupport = false
 logo = "images/logo.png"
-twitterName = "jojo"
+# twitterName = "jojo"
 [permalinks]
 post = "/:slug/"
 [sitemap]
