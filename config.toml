@@ -4,7 +4,6 @@ disqusshortname = "123"
 languagecode = "en-us"
 paginate = 5
 pluralizelisttitles = false
-theme = "casper"
 title = "寫點文字寫點程式"
 [[menu.main]]
 identifier = "blog"
@@ -41,7 +40,7 @@ githubName = "vjeantet"
 googleAnalyticsUserID = "UA-79101-12"
 hideHUGOSupport = false
 logo = "images/logo.png"
-twitterName = "海鮮豆腐"
+twitterName = "lolo"
 [permalinks]
 post = "/:slug/"
 [sitemap]
