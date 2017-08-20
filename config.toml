@@ -5,6 +5,7 @@ languagecode = "en-us"
 paginate = 5
 pluralizelisttitles = false
 title = "寫點文字寫點程式"
+
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
@@ -33,13 +34,14 @@ weight = 109
 author = "crea"
 authorlocation = "Taipei, Taiwan"
 authorwebsite = "https://creachang.github.io"
-authorbio = "標準大學生"
+authorbio = "呵呵"
 cover = "images/cover_polenord.jpg"
 description = "Whatever the mind of man can conceive and believe, it can achieve."
-githubName = "vjeantet"
-googleAnalyticsUserID = "UA-79101-12"
+githubName = "creachang"
+hjsStyle = "default"
+# googleAnalyticsUserID = "UA-79101-12"
 hideHUGOSupport = false
-logo = "images/logo.png"
+logo = "images/screen.png"
 twitterName = "lolo"
 [permalinks]
 post = "/:slug/"
