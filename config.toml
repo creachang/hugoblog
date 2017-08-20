@@ -41,8 +41,8 @@ githubName = "creachang"
 hjsStyle = "default"
 # googleAnalyticsUserID = "UA-79101-12"
 hideHUGOSupport = false
-logo = "images/screen.png"
-twitterName = "lolo"
+logo = "images/logo.png"
+twitterName = "jojo"
 [permalinks]
 post = "/:slug/"
 [sitemap]
